@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Verma  </h1>
+<h1">Hi 👋, I'm Shivam Verma  </h1>
 <h3 align="center">A passionate AI/ML Expert</h3>
 
 - 🔭 I’m currently working on **Fraud Payment Detection**
